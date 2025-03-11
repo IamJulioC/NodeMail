@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.10.0"
+  },
+  "name": "nodemail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamJulioC/NodeMail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamJulioC/NodeMail/issues"
+  },
+  "homepage": "https://github.com/IamJulioC/NodeMail#readme",
+  "description": "Envie e-mails pelo nodejs usando o nodemailer"
+}
